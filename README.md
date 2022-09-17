@@ -69,4 +69,4 @@ If you want to change this data, then open "college-management-system-java\src\r
 
 ## About
 #### My name is Devanshu Mahapatra. I'm studying Information Technology (2nd Year) in APSIT (Thane). Contact me for any improvement/suggestions in this project.
-#### Email : devanshumahapatra17@gmail.com
+#### Email : 20104049.subhashishmahapatra@gmail.com
