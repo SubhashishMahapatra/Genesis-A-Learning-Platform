@@ -68,5 +68,5 @@ If you want to change this data, then open "college-management-system-java\src\r
 <img width="396" alt="Screenshot 2021-12-07 at 12 28 47 PM" src="https://user-images.githubusercontent.com/93381397/144981652-3e2fa9dd-d160-4432-9b9b-0a5b8b0d1bab.png">
 
 ## About
-#### My name is Devanshu Mahapatra. I'm studying Information Technology (2nd Year) in APSIT (Thane). Contact me for any improvement/suggestions in this project.
+#### My name is Subhashish Mahapatra. I'm studying Information Technology (2nd Year) in APSIT (Thane). Contact me for any improvement/suggestions in this project.
 #### Email : 20104049.subhashishmahapatra@gmail.com
